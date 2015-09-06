@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/kaganmoshe/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/Users/kaganmoshe/AndroidStudioProjects/BrainySDK/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-65a445e66c7d6274345d8024a9bebf7448e8550d.jar" />
+    </item>
+    <item
+        jar="/Users/kaganmoshe/AndroidStudioProjects/BrainySDK/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/kaganmoshe/AndroidStudioProjects/BrainySDK/app/build/intermediates/pre-dexed/debug/classes-5f5bfb8148c37b504722d04f57ecc0c279d5b906.jar" />
+    </item>
+    <item
+        jar="/Users/kaganmoshe/AndroidStudioProjects/BrainySDK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/kaganmoshe/AndroidStudioProjects/BrainySDK/app/build/intermediates/pre-dexed/debug/classes-3d8735da6b4dac03488e53d712fd22f6ba41e8bc.jar" />
+    </item>
+    <item
+        jar="/Users/kaganmoshe/AndroidStudioProjects/BrainySDK/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/kaganmoshe/AndroidStudioProjects/BrainySDK/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-b86efee25b963a0aabb6d3a69ea65ac0df19bf33.jar" />
+    </item>
+    <item
+        jar="/Users/kaganmoshe/AndroidStudioProjects/BrainySDK/app/src/main/java/libs/ThinkGear.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b4f0f0a355dcc5315e5bef25b775beaa52b2d208">
+        <dex dex="/Users/kaganmoshe/AndroidStudioProjects/BrainySDK/app/build/intermediates/pre-dexed/debug/ThinkGear-798860f84095e53fb5944cc1538a2b0ab0e21251.jar" />
+    </item>
+
+</items>
